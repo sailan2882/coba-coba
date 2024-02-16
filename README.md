@@ -1,2 +1,2 @@
 # coba-coba
-ini adalah repository untuk coba-coba saja
+ini adalah repository untuk coba-coba saja, silahkan dilanjutkan
